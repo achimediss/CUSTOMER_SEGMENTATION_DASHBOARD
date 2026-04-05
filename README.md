@@ -106,7 +106,7 @@ Customers were grouped into segments such as:
 ## 📸 Dashboard Preview
 ## 📸 Dashboard Preview
 
-![images](final_dashboard.png)
+![RFM Dashboard](images/final_dashboard.png)
 ## 🚀 How to Use This Project
 1. Clone the repository  
 2. Open the dataset  
