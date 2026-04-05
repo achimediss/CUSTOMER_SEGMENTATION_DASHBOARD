@@ -1,3 +1,7 @@
+
+## 📸 Dashboard Preview
+![RFM Dashboard](images/final_dashboard.png)
+
 # 🧠 Customer Segmentation Analysis using RFM (Online Retail Dataset)
 
 ## 📌 Project Overview
@@ -102,11 +106,6 @@ Customers were grouped into segments such as:
 - 🚫 Reduce focus on low-value customers to optimize marketing spend  
 
 ---
-
-## 📸 Dashboard Preview
-## 📸 Dashboard Preview
-
-![RFM Dashboard](images/final_dashboard.png)
 ## 🚀 How to Use This Project
 1. Clone the repository  
 2. Open the dataset  
